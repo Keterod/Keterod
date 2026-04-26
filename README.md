@@ -24,9 +24,10 @@ Currently heads-down on a personal project. *Details coming soon... 🔒*
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
  
 ---
- 
+
 ## 📬 Reach me
 
-The best way to get in touch is via Discord. I'm always open to collaborations, questions, or just a good conversation.
+The best way to get in touch is via Discord or Gmail. I'm always open to collaborations, questions, or just a good conversation.
 
 [![Discord](https://img.shields.io/badge/keterod-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/keterod)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=diegocarhuamaca5@gmail.com)
